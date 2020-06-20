@@ -2,9 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-02_R_Programming/working_space/
-02_R_Programming/data/
-*.csv
+Rprof.out
+*/working_space/
 *.zip
 datasciencecoursera.Rproj
 .DS_Store
+.httr-oauth
